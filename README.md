@@ -1,5 +1,5 @@
 # R2CMSE
-This is the official source code repository of the R2CMSE algorithm. ![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/Shurun-Wang/R2CMSE&label=visitors&countColor=%232ccce4&style=plastic)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/Shurun-Wang/R2CMSE&label=visitors&countColor=%232ccce4&style=plastic) This is the official source code repository of the R2CMSE algorithm.
 
 R2CMSE is used to calculate the entropy of 1-channel signal. You can directly run the "r2cmse_main.m" file in MATLAB. We use multiple pink noises with the length of 500 as the example, you can change it to your own 1-channel data series.
 
